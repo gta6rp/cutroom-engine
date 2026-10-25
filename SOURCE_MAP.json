@@ -1,0 +1,236 @@
+{
+  "origin": "Cutroom live-stream clipping engine",
+  "scope": "Source extraction with standalone configuration paths, local-only publishing, and a read-only gateway.",
+  "files": [
+    {
+      "path": "pipeline/actioncap.py",
+      "sourceSha256": "41b405787a961fb8d28dd2aa41347de16e88c246bf1dc2ceb5f5b198b649123a",
+      "publishedSha256": "41b405787a961fb8d28dd2aa41347de16e88c246bf1dc2ceb5f5b198b649123a"
+    },
+    {
+      "path": "pipeline/asr/server.py",
+      "sourceSha256": "dc2c9b371eaecc529d6064f0073a94bdcb4e60e32b49a377db84500770ef5c8d",
+      "publishedSha256": "dc2c9b371eaecc529d6064f0073a94bdcb4e60e32b49a377db84500770ef5c8d"
+    },
+    {
+      "path": "pipeline/bleep.py",
+      "sourceSha256": "b2d4caa3c77d47a710330d79c7d2d18085421cbdec657f6bc0e4683941c80dd4",
+      "publishedSha256": "b2d4caa3c77d47a710330d79c7d2d18085421cbdec657f6bc0e4683941c80dd4"
+    },
+    {
+      "path": "pipeline/catalog.py",
+      "sourceSha256": "ba850067477a5df52fdf08b900c2e843fd69ca75fc33f3c624c347ed46b480bd",
+      "publishedSha256": "ba850067477a5df52fdf08b900c2e843fd69ca75fc33f3c624c347ed46b480bd"
+    },
+    {
+      "path": "pipeline/clipcut.py",
+      "sourceSha256": "b1c59613ba4004993363283004fd76bfca08562f886ac7068f9d3c98b4be78dd",
+      "publishedSha256": "b1c59613ba4004993363283004fd76bfca08562f886ac7068f9d3c98b4be78dd"
+    },
+    {
+      "path": "pipeline/critic.py",
+      "sourceSha256": "7d4aa7a02ad5eb6c9664fc07d057158be12c484bee97f6f1d51ecb0ec64433c6",
+      "publishedSha256": "78f7b20efcfed57e2c614166e532b24a56b7dd5b8b97e4a3ca054edb33055cde"
+    },
+    {
+      "path": "pipeline/edit.py",
+      "sourceSha256": "bcb2a5c5bbea09c72eeec69667eaa2da4701d28361e03108e5fe9739562220f4",
+      "publishedSha256": "bcb2a5c5bbea09c72eeec69667eaa2da4701d28361e03108e5fe9739562220f4"
+    },
+    {
+      "path": "pipeline/facecam.py",
+      "sourceSha256": "0c8f4db2e4a9be14928fa257930b21fec3fbf837f464f5839f423b167725e741",
+      "publishedSha256": "0c8f4db2e4a9be14928fa257930b21fec3fbf837f464f5839f423b167725e741"
+    },
+    {
+      "path": "pipeline/gamecam.py",
+      "sourceSha256": "d0eb3428514ac2ad8272f9045d81e724b1d6500f2cf7c4365847f28d39de728b",
+      "publishedSha256": "d0eb3428514ac2ad8272f9045d81e724b1d6500f2cf7c4365847f28d39de728b"
+    },
+    {
+      "path": "pipeline/hls_sections.py",
+      "sourceSha256": "6f7038ff67357d4a2d8f0131ce46427a4e42767472b418d719aeb2de2247b380",
+      "publishedSha256": "6f7038ff67357d4a2d8f0131ce46427a4e42767472b418d719aeb2de2247b380"
+    },
+    {
+      "path": "pipeline/hookbox.py",
+      "sourceSha256": "c17e1893b20c3d35bce21da49554bd58a3e0a04a083e5e8ed33e9478e34fbdec",
+      "publishedSha256": "c17e1893b20c3d35bce21da49554bd58a3e0a04a083e5e8ed33e9478e34fbdec"
+    },
+    {
+      "path": "pipeline/hype.py",
+      "sourceSha256": "0f53abb3b41a9512243ee9a8742e98051fec96d430507e5c890ebfd62b5570b3",
+      "publishedSha256": "0f53abb3b41a9512243ee9a8742e98051fec96d430507e5c890ebfd62b5570b3"
+    },
+    {
+      "path": "pipeline/kit.py",
+      "sourceSha256": "69d95f731e50d86947d7aad662119b1f90f641849defb7ef996982167ca4b661",
+      "publishedSha256": "69d95f731e50d86947d7aad662119b1f90f641849defb7ef996982167ca4b661"
+    },
+    {
+      "path": "pipeline/layouts.py",
+      "sourceSha256": "3c90a62a37377388fe9b49b9c03598021afc4b3eb9ac1af20994abaf254ed919",
+      "publishedSha256": "3c90a62a37377388fe9b49b9c03598021afc4b3eb9ac1af20994abaf254ed919"
+    },
+    {
+      "path": "pipeline/live/codex_editor.py",
+      "sourceSha256": "85cd6151ecafff2e07f5a699c34e5952392bd4fbfb9e0ef7d1bb953615d9ebcd",
+      "publishedSha256": "85cd6151ecafff2e07f5a699c34e5952392bd4fbfb9e0ef7d1bb953615d9ebcd"
+    },
+    {
+      "path": "pipeline/live/fleet.py",
+      "sourceSha256": "8993b988a996a091df8e92f536dec6dd0f233abd6f31557193a32e80cc65ead1",
+      "publishedSha256": "2b3f80da5bd81b2562dcbc4268290498bffd59b1c4295862090a58c813d10556"
+    },
+    {
+      "path": "pipeline/live/judge.py",
+      "sourceSha256": "36301a0286e19a12458ed53c8055b690254d6081893baff178ef2c9816f81e76",
+      "publishedSha256": "36301a0286e19a12458ed53c8055b690254d6081893baff178ef2c9816f81e76"
+    },
+    {
+      "path": "pipeline/live/live.py",
+      "sourceSha256": "d74cca6f34ccaca8b195d774bf398b8beab57340df6ed1531f46745753e7aeff",
+      "publishedSha256": "f4fb1a40ae0dbd186e924625d8daecb972d205898d51777b1dde28abd5d6dfa2"
+    },
+    {
+      "path": "pipeline/live/livelog.py",
+      "sourceSha256": "f25040c1d2b81dd37121bb1a7d1b1b9830fc2355fd296e7d9b15c8aa74118250",
+      "publishedSha256": "f25040c1d2b81dd37121bb1a7d1b1b9830fc2355fd296e7d9b15c8aa74118250"
+    },
+    {
+      "path": "pipeline/live/platforms.py",
+      "sourceSha256": "b33e7dcf64d3f6db25389d432439c1eb637e9f39b9c586df923b034019d29628",
+      "publishedSha256": "b33e7dcf64d3f6db25389d432439c1eb637e9f39b9c586df923b034019d29628"
+    },
+    {
+      "path": "pipeline/live/quota.py",
+      "sourceSha256": "4c27b89eb5504878f36ca1cfbb0d076b9a080b33e2a4fe076948667322b5961f",
+      "publishedSha256": "4c27b89eb5504878f36ca1cfbb0d076b9a080b33e2a4fe076948667322b5961f"
+    },
+    {
+      "path": "pipeline/live/report.py",
+      "sourceSha256": "8842f25b52a3276c94aec0797db83a14ea4551b063d28038b03933c4fee80a31",
+      "publishedSha256": "8842f25b52a3276c94aec0797db83a14ea4551b063d28038b03933c4fee80a31"
+    },
+    {
+      "path": "pipeline/live/room_agents.py",
+      "sourceSha256": "271260259f8f7f18129eb86d14dd8b8ba670a235af6b57136daf155b1bbf41ab",
+      "publishedSha256": "942db64e332fa33d55f0b462482d9471901eaaf6b1dc8d5991e19a21dc8f61a7"
+    },
+    {
+      "path": "pipeline/live/rooms_watch.py",
+      "sourceSha256": "380cebc855dbf7c0dea99ce54b5be8b76820fc815ac458762af699f866a6c1ad",
+      "publishedSha256": "d9ec66c1af37e4f2a7e539aae18b8bc49d736012cad3b1960b0117fa441f22fd"
+    },
+    {
+      "path": "pipeline/live/semantic.py",
+      "sourceSha256": "ce92a0673d1c7abd4a30657edcc826e601366a48d0f41ba59d5137cae7c6a4ac",
+      "publishedSha256": "ce92a0673d1c7abd4a30657edcc826e601366a48d0f41ba59d5137cae7c6a4ac"
+    },
+    {
+      "path": "pipeline/live/vtt.py",
+      "sourceSha256": "28a045160206262984c85094e29ee84de3613b9573efbbfec2a9438f71fb8632",
+      "publishedSha256": "28a045160206262984c85094e29ee84de3613b9573efbbfec2a9438f71fb8632"
+    },
+    {
+      "path": "pipeline/lore.py",
+      "sourceSha256": "22940f12b067b78ca690b5cc508f4551920ad5d6da1887144368276df5983ac2",
+      "publishedSha256": "9f9e2648d607c3e358ff29eeca41cf3e228c328820c8bf04be7f9fb9039dec47"
+    },
+    {
+      "path": "pipeline/moments.py",
+      "sourceSha256": "3713e4a4206ef5f54ab0f45e2bd7c6701ffd9a8b60e5492e808fc758e49d88ee",
+      "publishedSha256": "3713e4a4206ef5f54ab0f45e2bd7c6701ffd9a8b60e5492e808fc758e49d88ee"
+    },
+    {
+      "path": "pipeline/rankcut.py",
+      "sourceSha256": "80f65af8d7d48ab45cdb4b117761d68eecc6d5d5a52afaf2bb7f80523f93bbcd",
+      "publishedSha256": "80f65af8d7d48ab45cdb4b117761d68eecc6d5d5a52afaf2bb7f80523f93bbcd"
+    },
+    {
+      "path": "pipeline/rehear.py",
+      "sourceSha256": "691ac381705ec502633d7550e4a946588ddeac734bbe9ede293633d1edde7826",
+      "publishedSha256": "691ac381705ec502633d7550e4a946588ddeac734bbe9ede293633d1edde7826"
+    },
+    {
+      "path": "pipeline/safety.py",
+      "sourceSha256": "af09c877f2bd8ce3bd931d275abd6bea81cbecfdd92e5c40538a969174a8366b",
+      "publishedSha256": "af09c877f2bd8ce3bd931d275abd6bea81cbecfdd92e5c40538a969174a8366b"
+    },
+    {
+      "path": "pipeline/storycut.py",
+      "sourceSha256": "2a0b30c5ddd10a2bc2daef45ae6e7326f1f40fe65fc2d084261ddd054c196497",
+      "publishedSha256": "2a0b30c5ddd10a2bc2daef45ae6e7326f1f40fe65fc2d084261ddd054c196497"
+    },
+    {
+      "path": "pipeline/studio/castcam.py",
+      "sourceSha256": "c4d04505bcb6f26522f0720d481c793e44cd190185521c5cd085582ac0bcf59e",
+      "publishedSha256": "c4d04505bcb6f26522f0720d481c793e44cd190185521c5cd085582ac0bcf59e"
+    },
+    {
+      "path": "pipeline/studio/cutsheet.py",
+      "sourceSha256": "d8b26f6202b9ea0a6182d86783b217ff866bcd0c648d1e4b14a9c8ccc4edf324",
+      "publishedSha256": "d8b26f6202b9ea0a6182d86783b217ff866bcd0c648d1e4b14a9c8ccc4edf324"
+    },
+    {
+      "path": "pipeline/studio/filler.py",
+      "sourceSha256": "e1a1b882fb3eb6cda482c3d0856a263866f637db7f21ef4f123854939fe6826c",
+      "publishedSha256": "e1a1b882fb3eb6cda482c3d0856a263866f637db7f21ef4f123854939fe6826c"
+    },
+    {
+      "path": "pipeline/studio/hypecut.py",
+      "sourceSha256": "be60bafaedc43e7358d5d64ef21e64bf0a2d8ea52c528cbfb8c54faf1d1246b5",
+      "publishedSha256": "be60bafaedc43e7358d5d64ef21e64bf0a2d8ea52c528cbfb8c54faf1d1246b5"
+    },
+    {
+      "path": "pipeline/studio/rankedit.py",
+      "sourceSha256": "e58624d6655c75364aca4d8716752116dc2eafdfee6473108cffb38899bddfe5",
+      "publishedSha256": "e58624d6655c75364aca4d8716752116dc2eafdfee6473108cffb38899bddfe5"
+    },
+    {
+      "path": "pipeline/studio/storyedit.py",
+      "sourceSha256": "f9021b4b6f1064acb31610061e8f978c976a350ca74f56b75bbe5e6deed580b7",
+      "publishedSha256": "f9021b4b6f1064acb31610061e8f978c976a350ca74f56b75bbe5e6deed580b7"
+    },
+    {
+      "path": "pipeline/studio/storypool.py",
+      "sourceSha256": "d6c03af8cfd8b7e35afcbd6bcc264cdce3623481178930b4340754b22be41b8f",
+      "publishedSha256": "d6c03af8cfd8b7e35afcbd6bcc264cdce3623481178930b4340754b22be41b8f"
+    },
+    {
+      "path": "pipeline/studio/studio.py",
+      "sourceSha256": "9af95c640df48568c6ea5cc6cc0015d9758351480cb9ce918e28ce43a68442b2",
+      "publishedSha256": "9af95c640df48568c6ea5cc6cc0015d9758351480cb9ce918e28ce43a68442b2"
+    },
+    {
+      "path": "pipeline/tighten.py",
+      "sourceSha256": "2def3da68ce940212f04709dab21901af49c236fb4d8e38e40522cbf9de242ac",
+      "publishedSha256": "2def3da68ce940212f04709dab21901af49c236fb4d8e38e40522cbf9de242ac"
+    },
+    {
+      "path": "pipeline/transcribe.py",
+      "sourceSha256": "334781dcd61183f861dc29c0dc0eac21704aa2f250cc18718404e799760b1fea",
+      "publishedSha256": "334781dcd61183f861dc29c0dc0eac21704aa2f250cc18718404e799760b1fea"
+    },
+    {
+      "path": "pipeline/transcribe_gpu.py",
+      "sourceSha256": "15ac33a0616f6100e2a1ea89174b86ea807dd530871bd1097638d987cf9c3c00",
+      "publishedSha256": "15ac33a0616f6100e2a1ea89174b86ea807dd530871bd1097638d987cf9c3c00"
+    },
+    {
+      "path": "pipeline/vcam.py",
+      "sourceSha256": "9eb0cd7137a54ba40cf01dd3e80d6a05af2cb92a7c3be34bfcae0f0b45da1385",
+      "publishedSha256": "9eb0cd7137a54ba40cf01dd3e80d6a05af2cb92a7c3be34bfcae0f0b45da1385"
+    },
+    {
+      "path": "pipeline/vodfind.py",
+      "sourceSha256": "79c268b8880df09dfa9e1ceb05fc17ed66706204d3b7895016378f0b421e99a9",
+      "publishedSha256": "79c268b8880df09dfa9e1ceb05fc17ed66706204d3b7895016378f0b421e99a9"
+    },
+    {
+      "path": "pipeline/voiceprint.py",
+      "sourceSha256": "fe74d657e4ad96f7be2d3479b959a840fa9039e7f5fedf1b0280c772d51b66cb",
+      "publishedSha256": "fe74d657e4ad96f7be2d3479b959a840fa9039e7f5fedf1b0280c772d51b66cb"
+    }
+  ]
+}
